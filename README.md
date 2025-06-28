@@ -17,6 +17,10 @@ This project focuses on applying data analytics techniques to the sales domain. 
 2. Leave a comment with your thoughts or questions.
 3. Share the project with others who might benefit from it.
 
+## Power BI Dashboard
+![Screenshot 2025-06-27 173227](https://github.com/user-attachments/assets/2bf2ae7f-0faa-4a32-9827-c93e196fd4ef)
+![Screenshot 2025-06-27 173245](https://github.com/user-attachments/assets/f7e85dd4-4033-429a-b2aa-4ade726c4d2a)
+
 
 ## Contact
 For inquiries or collaboration opportunities, please reach out via GitHub.
